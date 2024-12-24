@@ -1,0 +1,271 @@
+Change component parameters: Designator = "C10" ("C10"); Footprint = "0402"; UniqueID = "\DBSIYKDP" ("\DBSIYKDP")
+Change component parameters (AddParameter): Name = "BOMString"; Value = " 1 µF 16V ±10% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = " 1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "CC0402KRX5R7BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "0402"; UniqueID = "\HFSFIPEZ" ("\HFSFIPEZ")
+Change component parameters (AddParameter): Name = "BOMString"; Value = " 1 µF 16V ±10% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = " 1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "CC0402KRX5R7BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C30(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "100nF 16V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=R26(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "47 Ohm ±1% 1/16 W 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "RC0402FR-0747RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/16 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "47 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R27(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "47 Ohm ±1% 1/16 W 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "RC0402FR-0747RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/16 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "47 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_D Pin=C1-1
+Added Pin To Net: NetName=NRST Pin=C1-2
+Added Pin To Net: NetName=O_OUT Pin=C2-1
+Added Pin To Net: NetName=GND_D Pin=C2-2
+Added Pin To Net: NetName=O_IN Pin=C3-1
+Added Pin To Net: NetName=GND_D Pin=C3-2
+Added Pin To Net: NetName=GND_D Pin=C4-1
+Added Pin To Net: NetName=3.3V Pin=C4-2
+Added Pin To Net: NetName=GND_D Pin=C5-1
+Added Pin To Net: NetName=3.3V Pin=C5-2
+Added Pin To Net: NetName=GND_D Pin=C7-1
+Added Pin To Net: NetName=3.3V Pin=C7-2
+Added Pin To Net: NetName=GND_D Pin=C9-1
+Added Pin To Net: NetName=3.3V Pin=C9-2
+Added Pin To Net: NetName=3.3V Pin=C10-1
+Added Pin To Net: NetName=GND_D Pin=C10-2
+Added Pin To Net: NetName=GND_D Pin=C11-1
+Added Pin To Net: NetName=3.3V Pin=C11-2
+Added Pin To Net: NetName=3.3V Pin=C12-1
+Added Pin To Net: NetName=GND_D Pin=C12-2
+Added Pin To Net: NetName=GND_D Pin=C13-1
+Added Pin To Net: NetName=3.3V Pin=C13-2
+Added Pin To Net: NetName=5V Pin=C14-1
+Added Pin To Net: NetName=P_GND Pin=C14-2
+Added Pin To Net: NetName=3.3V Pin=C18-1
+Added Pin To Net: NetName=P_GND Pin=C18-2
+Added Pin To Net: NetName=12V Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=VCC Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=5VOUT Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=12VOUT Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=3.3V Pin=C30-2
+Added Pin To Net: NetName=CPO Pin=C31-1
+Added Pin To Net: NetName=CPI Pin=C31-2
+Added Pin To Net: NetName=VCP Pin=C32-1
+Added Pin To Net: NetName=48V Pin=C32-2
+Added Pin To Net: NetName=CB1 Pin=C33-1
+Added Pin To Net: NetName=A2 Pin=C33-2
+Added Pin To Net: NetName=CA2 Pin=C34-1
+Added Pin To Net: NetName=B1 Pin=C34-2
+Added Pin To Net: NetName=CB2 Pin=C35-1
+Added Pin To Net: NetName=A1 Pin=C35-2
+Added Pin To Net: NetName=CA1 Pin=C36-1
+Added Pin To Net: NetName=B2 Pin=C36-2
+Added Pin To Net: NetName=SRBL Pin=C37-1
+Added Pin To Net: NetName=SRBH Pin=C37-2
+Added Pin To Net: NetName=SRAL Pin=C38-1
+Added Pin To Net: NetName=SRAH Pin=C38-2
+Added Pin To Net: NetName=48V Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=NetLD1_1 Pin=LD1-1
+Added Pin To Net: NetName=GND_D Pin=LD1-2
+Added Pin To Net: NetName=NetLD2_1 Pin=LD2-1
+Added Pin To Net: NetName=GND_D Pin=LD2-2
+Added Pin To Net: NetName=NRST Pin=R1-1
+Added Pin To Net: NetName=3.3V Pin=R1-2
+Added Pin To Net: NetName=PB8_BOOT0 Pin=R2-1
+Added Pin To Net: NetName=GND_D Pin=R2-2
+Added Pin To Net: NetName=CC1 Pin=R3-1
+Added Pin To Net: NetName=NetJ1_A5 Pin=R3-2
+Added Pin To Net: NetName=CC2 Pin=R4-1
+Added Pin To Net: NetName=NetJ1_B5 Pin=R4-2
+Added Pin To Net: NetName=3.3V Pin=R5-1
+Added Pin To Net: NetName=NetLD2_1 Pin=R5-2
+Added Pin To Net: NetName=NetLD1_1 Pin=R6-1
+Added Pin To Net: NetName=LED Pin=R6-2
+Added Pin To Net: NetName=5VOUT Pin=R15-1
+Added Pin To Net: NetName=VCC Pin=R15-2
+Added Pin To Net: NetName=SRBH Pin=R24-1
+Added Pin To Net: NetName=NetQ2_5 Pin=R24-2
+Added Pin To Net: NetName=SRBL Pin=R25-1
+Added Pin To Net: NetName=GND Pin=R25-2
+Added Pin To Net: NetName=SRAH Pin=R26-1
+Added Pin To Net: NetName=NetQ1_5 Pin=R26-2
+Added Pin To Net: NetName=SRAL Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R27-2
+Added Pin To Net: NetName=NRST Pin=S1-1
+Added Pin To Net: NetName=GND_D Pin=S1-2
+Added Pin To Net: NetName=3.3V Pin=S2-1
+Added Pin To Net: NetName=PB8_BOOT0 Pin=S2-2
+Added Pin To Net: NetName=GND_D Pin=U1-0
+Added Pin To Net: NetName=3.3V Pin=U1-1
+Added Pin To Net: NetName=LED Pin=U1-2
+Added Pin To Net: NetName=O_IN Pin=U1-5
+Added Pin To Net: NetName=O_OUT Pin=U1-6
+Added Pin To Net: NetName=NRST Pin=U1-7
+Added Pin To Net: NetName=TMC_DRV_ENN Pin=U1-12
+Added Pin To Net: NetName=ENC_SCK Pin=U1-13
+Added Pin To Net: NetName=ENC_MISO Pin=U1-14
+Added Pin To Net: NetName=ENC_MOSI Pin=U1-15
+Added Pin To Net: NetName=ENC_CS Pin=U1-16
+Added Pin To Net: NetName=SPI_MODE Pin=U1-17
+Added Pin To Net: NetName=SD_MODE Pin=U1-18
+Added Pin To Net: NetName=3.3V Pin=U1-20
+Added Pin To Net: NetName=3.3V Pin=U1-21
+Added Pin To Net: NetName=3.3V Pin=U1-23
+Added Pin To Net: NetName=TMC_CS Pin=U1-25
+Added Pin To Net: NetName=TMC_SCK Pin=U1-26
+Added Pin To Net: NetName=TMC_MISO Pin=U1-27
+Added Pin To Net: NetName=TMC_MOS Pin=U1-28
+Added Pin To Net: NetName=TMC_DIR Pin=U1-29
+Added Pin To Net: NetName=TMC_PWM Pin=U1-30
+Added Pin To Net: NetName=D_N Pin=U1-33
+Added Pin To Net: NetName=D_P Pin=U1-34
+Added Pin To Net: NetName=3.3V Pin=U1-35
+Added Pin To Net: NetName=SWDIO Pin=U1-36
+Added Pin To Net: NetName=SWCLK Pin=U1-37
+Added Pin To Net: NetName=CC2 Pin=U1-42
+Added Pin To Net: NetName=CC1 Pin=U1-44
+Added Pin To Net: NetName=CAN_FD_RX Pin=U1-46
+Added Pin To Net: NetName=CAN_FD_TX Pin=U1-47
+Added Pin To Net: NetName=3.3V Pin=U1-48
+Added Pin To Net: NetName=5V Pin=U3-1
+Added Pin To Net: NetName=P_GND Pin=U3-2
+Added Pin To Net: NetName=5V Pin=U3-3
+Added Pin To Net: NetName=3.3V Pin=U3-5
+Added Pin To Net: NetName=HB1 Pin=U7-1
+Added Pin To Net: NetName=CB1 Pin=U7-2
+Added Pin To Net: NetName=12VOUT Pin=U7-3
+Added Pin To Net: NetName=12V Pin=U7-4
+Added Pin To Net: NetName=5VOUT Pin=U7-5
+Added Pin To Net: NetName=GND Pin=U7-6
+Added Pin To Net: NetName=SRAL Pin=U7-7
+Added Pin To Net: NetName=SRAH Pin=U7-8
+Added Pin To Net: NetName=SRBH Pin=U7-9
+Added Pin To Net: NetName=SRBL Pin=U7-10
+Added Pin To Net: NetName=GND Pin=U7-11
+Added Pin To Net: NetName=GND_DRV Pin=U7-12
+Added Pin To Net: NetName=TMC_CS Pin=U7-13
+Added Pin To Net: NetName=TMC_SCK Pin=U7-14
+Added Pin To Net: NetName=TMC_MOS Pin=U7-15
+Added Pin To Net: NetName=TMC_MISO Pin=U7-16
+Added Pin To Net: NetName=TMC_PWM Pin=U7-17
+Added Pin To Net: NetName=TMC_DIR Pin=U7-18
+Added Pin To Net: NetName=GND Pin=U7-19
+Added Pin To Net: NetName=3.3V Pin=U7-20
+Added Pin To Net: NetName=SD_MODE Pin=U7-21
+Added Pin To Net: NetName=SPI_MODE Pin=U7-22
+Added Pin To Net: NetName=ENC_B Pin=U7-23
+Added Pin To Net: NetName=ENC_A Pin=U7-24
+Added Pin To Net: NetName=ENC_N Pin=U7-25
+Added Pin To Net: NetName=DIAG0 Pin=U7-26
+Added Pin To Net: NetName=TMC_DRV_ENN Pin=U7-28
+Added Pin To Net: NetName=VCC Pin=U7-29
+Added Pin To Net: NetName=GND Pin=U7-30
+Added Pin To Net: NetName=CPO Pin=U7-31
+Added Pin To Net: NetName=CPI Pin=U7-32
+Added Pin To Net: NetName=48V Pin=U7-33
+Added Pin To Net: NetName=VCP Pin=U7-34
+Added Pin To Net: NetName=CA2 Pin=U7-35
+Added Pin To Net: NetName=HA2 Pin=U7-36
+Added Pin To Net: NetName=B1 Pin=U7-37
+Added Pin To Net: NetName=LA2 Pin=U7-38
+Added Pin To Net: NetName=LA1 Pin=U7-39
+Added Pin To Net: NetName=B2 Pin=U7-40
+Added Pin To Net: NetName=HA1 Pin=U7-41
+Added Pin To Net: NetName=CA1 Pin=U7-42
+Added Pin To Net: NetName=CB2 Pin=U7-43
+Added Pin To Net: NetName=HB2 Pin=U7-44
+Added Pin To Net: NetName=A1 Pin=U7-45
+Added Pin To Net: NetName=LB2 Pin=U7-46
+Added Pin To Net: NetName=LB1 Pin=U7-47
+Added Pin To Net: NetName=A2 Pin=U7-48
+Added Pin To Net: NetName=GND Pin=U7-49
+Added Pin To Net: NetName=O_IN Pin=Y1-1
+Added Pin To Net: NetName=GND_D Pin=Y1-2
+Added Pin To Net: NetName=O_OUT Pin=Y1-3
+Added Pin To Net: NetName=GND_D Pin=Y1-4
+Added Member To Class: ClassName=Logic Member=Component C1 100nF 16V X7R ±10% 
+Added Member To Class: ClassName=Logic Member=Component C2 4pF 50V C0G (NP0) ±0.25 pF 
+Added Member To Class: ClassName=Logic Member=Component C3 4pF 50V C0G (NP0) ±0.25 pF 
+Added Member To Class: ClassName=Logic Member=Component C4 100nF 16V X7R ±10% 
+Added Member To Class: ClassName=Logic Member=Component C5 100nF 16V X7R ±10% 
+Added Member To Class: ClassName=Logic Member=Component C7 100nF 16V X7R ±10% 
+Added Member To Class: ClassName=Logic Member=Component C9 100nF 16V X7R ±10% 
+Added Member To Class: ClassName=Logic Member=Component C10  1 µF 16V X5R ±10% 
+Added Member To Class: ClassName=Logic Member=Component C11 100nF 16V X7R ±10% 
+Added Member To Class: ClassName=Logic Member=Component C12  1 µF 16V X5R ±10% 
+Added Member To Class: ClassName=Logic Member=Component C13 100nF 16V X7R ±10% 
+Added Member To Class: ClassName=Power_Supply Member=Component C14 10 µF 16V X5R ±10% 
+Added Member To Class: ClassName=Power_Supply Member=Component C18 10 µF 16V X5R ±10% 
+Added Member To Class: ClassName=Driver Member=Component C25 100 nF 100V X5R ±10% 
+Added Member To Class: ClassName=Driver Member=Component C27 470nF 50V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C28 2.2?F 16V X5R 20% 
+Added Member To Class: ClassName=Driver Member=Component C29 2.2?F 16V X5R 20% 
+Added Member To Class: ClassName=Driver Member=Component C30 100nF 16V X7R ±10% 
+Added Member To Class: ClassName=Driver Member=Component C31 22 nF 100V X7R ±10% 
+Added Member To Class: ClassName=Driver Member=Component C32 100 nF 100V X5R ±10% 
+Added Member To Class: ClassName=Driver Member=Component C33 220 nF 25 X7R ±10% 
+Added Member To Class: ClassName=Driver Member=Component C34 220 nF 25 X7R ±10% 
+Added Member To Class: ClassName=Driver Member=Component C35 220 nF 25 X7R ±10% 
+Added Member To Class: ClassName=Driver Member=Component C36 220 nF 25 X7R ±10% 
+Added Member To Class: ClassName=Driver Member=Component C37 2.2 nF 100V X7R ±10% 
+Added Member To Class: ClassName=Driver Member=Component C38 2.2 nF 100V X7R ±10% 
+Added Member To Class: ClassName=Driver Member=Component C39 100 nF 100V X5R ±10% 
+Added Member To Class: ClassName=Logic Member=Component LD1 SZYY0402G (Green) / 
+Added Member To Class: ClassName=Logic Member=Component LD2 SML-P11UTT86R (Red) / 
+Added Member To Class: ClassName=Logic Member=Component R1 10K 1/5W 
+Added Member To Class: ClassName=Logic Member=Component R2 10K 1/5W 
+Added Member To Class: ClassName=Logic Member=Component R3 0 Ohm 1/16W 
+Added Member To Class: ClassName=Logic Member=Component R4 0 Ohm 1/16W 
+Added Member To Class: ClassName=Logic Member=Component R5 1.5 kOhm 1/16W 
+Added Member To Class: ClassName=Logic Member=Component R6 1.5 kOhm 1/16W 
+Added Member To Class: ClassName=Driver Member=Component R15 2.2 Ohm 1/10 W 
+Added Member To Class: ClassName=Driver Member=Component R24 47 Ohm 1/16 W 
+Added Member To Class: ClassName=Driver Member=Component R25 47 Ohm 1/16 W 
+Added Member To Class: ClassName=Driver Member=Component R26 47 Ohm 1/16 W 
+Added Member To Class: ClassName=Driver Member=Component R27 47 Ohm 1/16 W 
+Added Member To Class: ClassName=Logic Member=Component S1 B3U1000PB
+Added Member To Class: ClassName=Logic Member=Component S2 B3U1000PB
+Added Member To Class: ClassName=Logic Member=Component U1 STM32G431CBU6
+Added Member To Class: ClassName=Power_Supply Member=Component U3 LP5907MFX-3.3/NOPB
+Added Member To Class: ClassName=Driver Member=Component U7 TMC5160
+Added Member To Class: ClassName=Logic Member=Component Y1 48MHz 7pF ±10ppm 

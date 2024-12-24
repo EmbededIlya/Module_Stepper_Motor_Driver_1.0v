@@ -1,0 +1,24 @@
+Removed Member From Class: ClassName=Driver Member=C12
+Removed Member From Class: ClassName=Logic Member=C17
+Removed Member From Class: ClassName=Power_Supply Member=C27
+Added Member To Class: ClassName=Logic Member=Component C10  1 µF 16V X5R ±10% 
+Added Member To Class: ClassName=Logic Member=Component C11 100nF 16V X7R ±10% 
+Added Member To Class: ClassName=Logic Member=Component C13 100nF 16V X7R ±10% 
+Added Member To Class: ClassName=Power_Supply Member=Component C14 10 µF 16V X5R ±10% 
+Added Member To Class: ClassName=Power_Supply Member=Component C15 4,7 µF 100V X5R ±10% 
+Added Member To Class: ClassName=Power_Supply Member=Component C16 1 µF 100V X5R ±10% 
+Added Member To Class: ClassName=Power_Supply Member=Component C18 10 µF 16V X5R ±10% 
+Added Member To Class: ClassName=Power_Supply Member=Component C20 100nF 16V X7R ±10% 
+Added Member To Class: ClassName=Power_Supply Member=Component C21 10 µF 16V X5R ±10% 
+Added Member To Class: ClassName=Power_Supply Member=Component C23 10 µF 16V X5R ±10% 
+Added Member To Class: ClassName=Power_Supply Member=Component C24 22 µF 10V X5R ±10% 
+Added Member To Class: ClassName=Driver Member=Component C25 100 nF 100V X5R ±10% 
+Added Member To Class: ClassName=Driver Member=Component C26 100nF 16V X7R ±10% 
+Added Member To Class: ClassName=Driver Member=Component C28 2.2?F 16V X5R 20% 
+Added Member To Class: ClassName=Driver Member=Component C29 2.2?F 16V X5R 20% 
+Added Member To Class: ClassName=Driver Member=Component C30 100nF 16V X7R ±10% 
+Added Member To Class: ClassName=Driver Member=Component C33 220 nF 25 X7R ±10% 
+Added Member To Class: ClassName=Driver Member=Component C35 220 nF 25 X7R ±10% 
+Added Member To Class: ClassName=Driver Member=Component R14 10K 1/5W 
+Added Member To Class: ClassName=Driver Member=Component R21 10 Ohm 1/16 W 
+Added Member To Class: ClassName=Driver Member=Component R23 10 Ohm 1/16 W 

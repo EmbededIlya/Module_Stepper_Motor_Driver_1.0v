@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=ENC_B Pin=U7-23
+Removed Pin From Net: NetName=ENC_A Pin=U7-24
+Added Pin To Net: NetName=ENC_A Pin=P4-1
+Added Pin To Net: NetName=ENC_B Pin=P4-2
+Added Pin To Net: NetName=GND Pin=U7-23
+Added Pin To Net: NetName=GND Pin=U7-24
+Added Pin To Net: NetName=GND Pin=U7-25

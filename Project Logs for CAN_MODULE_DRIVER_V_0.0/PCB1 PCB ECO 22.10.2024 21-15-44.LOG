@@ -1,0 +1,15 @@
+Added Component: Designator=U7(SOIC-8_TP)
+Add component (AddParameter): Name = "BOMString"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 5"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 6"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=U7-1
+Added Pin To Net: NetName=NetC13_1 Pin=U7-2
+Added Pin To Net: NetName=NetC13_1 Pin=U7-3
+Added Pin To Net: NetName=NetR10_2 Pin=U7-4
+Added Pin To Net: NetName=NetR11_1 Pin=U7-5
+Added Pin To Net: NetName=NetC44_2 Pin=U7-7
+Added Pin To Net: NetName=NetC44_1 Pin=U7-8
+Added Member To Class: ClassName=Power_Supply Member=Component U7 LMR38020

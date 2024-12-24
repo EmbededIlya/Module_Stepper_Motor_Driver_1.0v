@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=NetQ2_5 Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=NetQ1_5 Pin=C38-2
+Added Pin To Net: NetName=NetQ2_5 Pin=R24-1
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=NetQ1_5 Pin=R26-1
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Pin To Net: NetName=NetQ1_5 Pin=U7-8
+Added Pin To Net: NetName=NetQ2_5 Pin=U7-9
+Added Pin To Net: NetName=GND Pin=U7-10
+Change Net Name : Old Net Name=GND New Net Name=SRAL_N
+Change Net Name : Old Net Name=NetQ1_5 New Net Name=SRAH_P
+Change Net Name : Old Net Name=NetQ2_5 New Net Name=SRBH_P
+Added Net: Name=12V_PERIH
+Added Pin To Net: NetName=NetP2_1 Pin=U1-10
+Added Net: Name=NetP2_1

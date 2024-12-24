@@ -1,0 +1,35 @@
+Added Component: Designator=U1(QFN-48-0.5-7x7_TP)
+Added Pin To Net: NetName=GND Pin=U1-0
+Added Pin To Net: NetName=3.3V Pin=U1-1
+Added Pin To Net: NetName=LED Pin=U1-2
+Added Pin To Net: NetName=O_IN Pin=U1-5
+Added Pin To Net: NetName=O_OUT Pin=U1-6
+Added Pin To Net: NetName=NRST Pin=U1-7
+Added Pin To Net: NetName=TMC_DRV_ENN Pin=U1-12
+Added Pin To Net: NetName=ENC_SCK Pin=U1-13
+Added Pin To Net: NetName=ENC_MISO Pin=U1-14
+Added Pin To Net: NetName=ENC_MOSI Pin=U1-15
+Added Pin To Net: NetName=ENC_CS Pin=U1-16
+Added Pin To Net: NetName=SPI_MODE Pin=U1-17
+Added Pin To Net: NetName=SD_MODE Pin=U1-18
+Added Pin To Net: NetName=3.3V Pin=U1-20
+Added Pin To Net: NetName=3.3V Pin=U1-21
+Added Pin To Net: NetName=3.3V Pin=U1-23
+Added Pin To Net: NetName=TMC_DIR Pin=U1-24
+Added Pin To Net: NetName=TMC_PWM Pin=U1-25
+Added Pin To Net: NetName=TMC_SCK Pin=U1-26
+Added Pin To Net: NetName=TMC_MISO Pin=U1-27
+Added Pin To Net: NetName=TMC_MOS Pin=U1-28
+Added Pin To Net: NetName=TMC_CS Pin=U1-29
+Added Pin To Net: NetName=NetP2_1 Pin=U1-30
+Added Pin To Net: NetName=D_N Pin=U1-33
+Added Pin To Net: NetName=D_P Pin=U1-34
+Added Pin To Net: NetName=3.3V Pin=U1-35
+Added Pin To Net: NetName=SWDIO Pin=U1-36
+Added Pin To Net: NetName=SWCLK Pin=U1-37
+Added Pin To Net: NetName=CC2 Pin=U1-42
+Added Pin To Net: NetName=CC1 Pin=U1-44
+Added Pin To Net: NetName=CAN_FD_RX Pin=U1-46
+Added Pin To Net: NetName=CAN_FD_TX Pin=U1-47
+Added Pin To Net: NetName=3.3V Pin=U1-48
+Added Member To Class: ClassName=Logic Member=Component U1 STM32G431CBU6

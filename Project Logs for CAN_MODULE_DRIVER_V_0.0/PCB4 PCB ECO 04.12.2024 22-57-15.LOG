@@ -1,0 +1,28 @@
+Added Component: Designator=U4(SOIC-8_TP)
+Add component (AddParameter): Name = "BOMString"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "LMR38020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 5"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 6"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-0
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=48V Pin=U4-2
+Added Pin To Net: NetName=48V Pin=U4-3
+Added Pin To Net: NetName=NetR9_2 Pin=U4-4
+Added Pin To Net: NetName=BUCK2_FB Pin=U4-5
+Added Pin To Net: NetName=BUCK2_BOOT Pin=U4-7
+Added Pin To Net: NetName=BUCK2_SW Pin=U4-8
+Added Member To Class: ClassName=Power_Supply Member=Component U4 LMR38020

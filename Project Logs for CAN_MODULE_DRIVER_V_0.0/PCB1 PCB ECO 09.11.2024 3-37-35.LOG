@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C25 Old Footprint=1206 New Footprint=0402
+Change Physical Footprint: Designator=C_RX1 Old Footprint=TP_CIRCLE1mm New Footprint=TP_CIRCLE1mm
+Change Physical Footprint: Designator=C_TX1 Old Footprint=TP_CIRCLE1mm New Footprint=TP_CIRCLE1mm

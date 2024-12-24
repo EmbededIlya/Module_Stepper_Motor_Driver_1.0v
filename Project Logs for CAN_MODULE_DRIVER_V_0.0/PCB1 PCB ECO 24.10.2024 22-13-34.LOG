@@ -1,0 +1,23 @@
+Added Component: Designator=LD1(0402 GREEN FLAT)
+Add component (AddParameter): Name = "BOMString"; Value = " SZYY0402G (Green) /  15 mA 0402 GREEN FLAT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "15 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YONGYU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = " SZYY0402G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LD2(0402 RED FLAT)
+Add component (AddParameter): Name = "BOMString"; Value = " SML-P11UTT86R (Red) /  20 mA 0402 RED FLAT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = " SML-P11UTT86R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLD1_1 Pin=LD1-1
+Added Pin To Net: NetName=3.3V Pin=LD1-2
+Added Pin To Net: NetName=NetLD2_1 Pin=LD2-1
+Added Pin To Net: NetName=3.3V Pin=LD2-2
+Added Member To Class: ClassName=Logic Member=Component LD1  SZYY0402G (Green) / 
+Added Member To Class: ClassName=Logic Member=Component LD2  SML-P11UTT86R (Red) / 

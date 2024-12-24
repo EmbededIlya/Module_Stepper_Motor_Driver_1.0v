@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=SRAL_N Pin=C37-1
+Removed Pin From Net: NetName=SRAL_N Pin=C38-1
+Removed Pin From Net: NetName=SRAL_N Pin=R25-1
+Removed Pin From Net: NetName=SRAL_N Pin=R27-1
+Removed Pin From Net: NetName=SRAL_N Pin=U7-7
+Removed Pin From Net: NetName=SRAL_N Pin=U7-10
+Added Component: Designator=SW1(SMD 2.9x5.4mm)
+Added Component: Designator=SW2(SMD 2.9x5.4mm)
+Added Pin To Net: NetName=NetR7_1 Pin=SW1-1
+Added Pin To Net: NetName=CAN_N Pin=SW1-2
+Added Pin To Net: NetName=PB8_BOOT0 Pin=SW2-1
+Added Pin To Net: NetName=CAN_FD_RX Pin=SW2-2
+Change Net Name : Old Net Name=SRAL_N New Net Name=SRAH_N
+Added Pin To Net: NetName=SRAL_N Pin=C38-1
+Added Pin To Net: NetName=SRAL_N Pin=R27-1
+Added Pin To Net: NetName=SRAL_N Pin=U7-7
+Added Net: Name=SRAL_N
+Added Pin To Net: NetName=SRBL_N Pin=C37-1
+Added Pin To Net: NetName=SRBL_N Pin=R25-1
+Added Pin To Net: NetName=SRBL_N Pin=U7-10
+Added Net: Name=SRBL_N
+Added Differential Pair: Name=SRAH
+Added Member To Class: ClassName=Logic Member=Component SW1 Switch_DIP
+Added Member To Class: ClassName=Logic Member=Component SW2 Switch_DIP

@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=NetC12_2 Pin=U?-1
+Removed Pin From Net: NetName=NetR5_1 Pin=U?-3
+Removed Pin From Net: NetName=NetR4_1 Pin=U?-4
+Removed Pin From Net: NetName=NetC13_1 Pin=U?-5
+Removed Member From Class: ClassName=CANFD Member=D1
+Change Component Footprint: Designator=R7 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=R8 Old Footprint=0805 New Footprint=0402
+Change Component Footprint: Designator=R22 Old Footprint=0805 New Footprint=0402
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change component parameters: Designator = "R7" ("R7"); Footprint = "0805"; UniqueID = "\PYWYXTRO" ("\PYWYXTRO")
+Change component parameters (AddParameter): Name = "BOMString"; Value = "2.2 Ohm ±1% 1/8 W 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = "RE0023917"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/8 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "2.2 Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "0805"; UniqueID = "\CWLZFKUX" ("\CWLZFKUX")
+Change component parameters (AddParameter): Name = "BOMString"; Value = "10 kOhm ±1% 1/8 W 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = "RE0023917"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/8 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10 kOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "0805"; UniqueID = "\MVVADZGK" ("\MVVADZGK")
+Change component parameters (AddParameter): Name = "BOMString"; Value = "0.75 Ohm ±1% 1/8 W 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = "RE0023917"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/8 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0.75 Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=D6(SOD-123FL)
+Add component (AddParameter): Name = "BOMString"; Value = "STPS0560Z  60 V 'SOD-123FL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "DS0002882"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "STPS0560Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price(1)"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price(100)"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "60 V"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SMD 2.9x5.4mm)
+Add component (AddParameter): Name = "BOMString"; Value = "24V 1 digit SPST 25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "ZHLM0400560"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "kangshen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "DSHP01TSGER"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC12_1 Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=NetR3_1 Pin=SW1-1
+Added Pin To Net: NetName=CAN_N Pin=SW1-2
+Added Pin To Net: NetName=5V Pin=U3-1
+Added Pin To Net: NetName=5V Pin=U3-3
+Added Pin To Net: NetName=3.3V Pin=U3-5
+Added Member To Class: ClassName=Power_Supply Member=Component D6 STPS0560Z 60 V
+Added Member To Class: ClassName=CANFD Member=Component SW1 Switch_DIP

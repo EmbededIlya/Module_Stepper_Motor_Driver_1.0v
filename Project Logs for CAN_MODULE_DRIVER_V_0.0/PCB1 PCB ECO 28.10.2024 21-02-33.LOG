@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=3.3V Pin=C10-1
+Removed Pin From Net: NetName=GND_D Pin=C10-2
+Change Component Comment : Designator=C10 Old Comment=10nF 16V X7R ±10%  New Comment=100nF 16V X7R ±10% 
+Change component parameters: Designator = "C10" ("C10"); Footprint = "0402"; UniqueID = "\OXGIGTYB" ("\OXGIGTYB")
+Change component parameters (AddParameter): Name = "BOMString"; Value = "100nF 16V ±10% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C30(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "100nF 16V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_D Pin=C10-1
+Added Pin To Net: NetName=3.3V Pin=C10-2
+Added Pin To Net: NetName=GND_D Pin=C30-1
+Added Pin To Net: NetName=3.3V Pin=C30-2
+Added Member To Class: ClassName=Logic Member=Component C30 100nF 16V X7R ±10% 
+Added Room: Name=Driver
+Added Room: Name=Logic
+Added Room: Name=Power_Supply

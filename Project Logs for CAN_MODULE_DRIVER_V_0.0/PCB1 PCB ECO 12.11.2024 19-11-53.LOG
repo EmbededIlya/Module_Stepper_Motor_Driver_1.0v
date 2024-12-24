@@ -1,0 +1,12 @@
+Added Component: Designator=C_RX1(TP_CIRCLE1mm)
+Added Component: Designator=C_TX1(TP_CIRCLE1mm)
+Added Component: Designator=J5(XT30U-M)
+Added Pin To Net: NetName=CAN_FD_RX Pin=C_RX1-1
+Added Pin To Net: NetName=CAN_FD_TX Pin=C_TX1-1
+Added Pin To Net: NetName=48V Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Change Net Name : Old Net Name=12V_PERIH New Net Name=12V
+Added Member To Class: ClassName=Power_Supply Member=Component C21 10 µF 16V X5R ±10% 
+Added Member To Class: ClassName=Logic Member=Component C_RX1 TestPoint
+Added Member To Class: ClassName=Logic Member=Component C_TX1 TestPoint
+Added Member To Class: ClassName=Power_Supply Member=Component J5 XT30U

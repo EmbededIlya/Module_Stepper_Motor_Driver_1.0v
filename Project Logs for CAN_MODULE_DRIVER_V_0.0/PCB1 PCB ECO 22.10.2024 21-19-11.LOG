@@ -1,0 +1,20 @@
+Added Component: Designator=J1(JST- 2 X - 1.5)
+Added Component: Designator=J2(JST- 2 X - 1.5)
+Added Component: Designator=J3(U262-161N-4BSS73-T)
+Added Pin To Net: NetName=CAN_P Pin=J1-1
+Added Pin To Net: NetName=CAN_N Pin=J1-2
+Added Pin To Net: NetName=CAN_P Pin=J2-1
+Added Pin To Net: NetName=CAN_N Pin=J2-2
+Added Pin To Net: NetName=3.3V Pin=J3-A1B12
+Added Pin To Net: NetName=NetD7_2 Pin=J3-A4B9
+Added Pin To Net: NetName=NetJ3_A5 Pin=J3-A5
+Added Pin To Net: NetName=+D Pin=J3-A6
+Added Pin To Net: NetName=-D Pin=J3-A7
+Added Pin To Net: NetName=NetD7_2 Pin=J3-A9B4
+Added Pin To Net: NetName=3.3V Pin=J3-A12B1
+Added Pin To Net: NetName=NetJ3_B5 Pin=J3-B5
+Added Pin To Net: NetName=+D Pin=J3-B6
+Added Pin To Net: NetName=-D Pin=J3-B7
+Added Member To Class: ClassName=CANFD Member=Component J1 JST-1.5-2
+Added Member To Class: ClassName=CANFD Member=Component J2 JST-1.5-2
+Added Member To Class: ClassName=Logic Member=Component J3 USBC-U262-16XN-4BSS73-T

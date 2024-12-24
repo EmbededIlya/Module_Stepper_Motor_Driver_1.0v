@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=ENC_I Pin=U1-9
+Removed Pin From Net: NetName=ENC_A Pin=U1-10
+Removed Pin From Net: NetName=ENC_B Pin=U1-11
+Removed Pin From Net: NetName=FAN_PWM Pin=U1-30
+Added Pin To Net: NetName=FAN_PWM Pin=U1-11

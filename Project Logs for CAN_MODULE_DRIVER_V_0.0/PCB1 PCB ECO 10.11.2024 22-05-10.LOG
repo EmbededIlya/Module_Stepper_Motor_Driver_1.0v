@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=G1 Pin=D5-1
+Removed Pin From Net: NetName=G4 Pin=D5-3
+Removed Pin From Net: NetName=HB1 Pin=D5-4
+Removed Pin From Net: NetName=HB2 Pin=D5-6
+Removed Pin From Net: NetName=G1_2 Pin=D7-1
+Removed Pin From Net: NetName=G4_2 Pin=D7-3
+Removed Pin From Net: NetName=HA1 Pin=D7-4
+Removed Pin From Net: NetName=HA2 Pin=D7-6
+Added Pin To Net: NetName=G4 Pin=D5-1
+Added Pin To Net: NetName=G1 Pin=D5-3
+Added Pin To Net: NetName=HB2 Pin=D5-4
+Added Pin To Net: NetName=HB1 Pin=D5-6
+Added Pin To Net: NetName=G4_2 Pin=D7-1
+Added Pin To Net: NetName=G1_2 Pin=D7-3
+Added Pin To Net: NetName=HA2 Pin=D7-4
+Added Pin To Net: NetName=HA1 Pin=D7-6
+Added Member To Class: ClassName=Driver Member=Component D6 BAT40V
+Added Member To Class: ClassName=Driver Member=Component D7 BAT40V

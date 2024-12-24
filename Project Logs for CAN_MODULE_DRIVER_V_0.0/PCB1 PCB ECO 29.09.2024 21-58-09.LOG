@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetC12_2 Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=NetR5_1 Pin=U3-3
+Removed Pin From Net: NetName=NetR4_1 Pin=U3-4
+Removed Pin From Net: NetName=NetC13_1 Pin=U3-5
+Removed Pin From Net: NetName=NetC12_1 Pin=U3-6
+Removed Member From Class: ClassName=Power_Supply Member=U3
+Added Component: Designator=P1(KF2510)
+Add component (AddParameter): Name = "BOMString"; Value = "Header 2x pins vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "KF2510"; VariantName = "[No Variations]"
+Added Component: Designator=P2(KF2510)
+Add component (AddParameter): Name = "BOMString"; Value = "Header 2x pins vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "KF2510"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT23-5)
+Added Pin To Net: NetName=5V Pin=U?-1
+Added Pin To Net: NetName=NetC12_2 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=5V Pin=U?-3
+Added Pin To Net: NetName=NetR5_1 Pin=U?-3
+Added Pin To Net: NetName=NetR4_1 Pin=U?-4
+Added Pin To Net: NetName=3.3V Pin=U?-5
+Added Pin To Net: NetName=NetC13_1 Pin=U?-5
+Added Member To Class: ClassName=CANFD Member=Component P1 KF2510
+Added Member To Class: ClassName=CANFD Member=Component P2 KF2510
+Added Member To Class: ClassName=Power_Supply Member=Component U? LMR16006YDDCR
+Added Member To Class: ClassName=Power_Supply Member=Component U? LP5907MFX-3.3/NOPB
+Added Room: Name=Driver

@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetNT1_2 Pin=NT1-2
+Removed Pin From Net: NetName=NetNT2_2 Pin=NT2-2
+Removed Pin From Net: NetName=GND Pin=NT4-2
+Removed Member From Class: ClassName=Driver Member=NT1
+Removed Member From Class: ClassName=Driver Member=NT2
+Removed Member From Class: ClassName=Driver Member=NT4
+Change component parameters: Designator = "C10" ("C10"); Footprint = "0402"; UniqueID = "\DBSIYKDP" ("\DBSIYKDP")
+Change component parameters (AddParameter): Name = "BOMString"; Value = " 1 µF 16V ±10% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = " 1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "CC0402KRX5R7BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "0402"; UniqueID = "\HFSFIPEZ" ("\HFSFIPEZ")
+Change component parameters (AddParameter): Name = "BOMString"; Value = " 1 µF 16V ±10% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = " 1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "CC0402KRX5R7BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetNT2_2 Pin=R24-2
+Added Pin To Net: NetName=GND Pin=R25-2
+Added Pin To Net: NetName=NetNT1_2 Pin=R26-2
+Added Pin To Net: NetName=GND Pin=R27-2
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=NetNT2_2 Pin=R28-2
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=NetNT1_2 Pin=R29-2
+Change Net Name : Old Net Name=NetNT1_2 New Net Name=SRAH_P
+Change Net Name : Old Net Name=NetNT2_2 New Net Name=SRBH_P

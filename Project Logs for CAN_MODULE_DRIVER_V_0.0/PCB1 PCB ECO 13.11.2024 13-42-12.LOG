@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SWDIO Pin=P1-3
+Removed Pin From Net: NetName=SWCLK Pin=P1-4
+Added Component: Designator=C_RX1(TP_CIRCLE1mm)
+Added Component: Designator=C_TX1(TP_CIRCLE1mm)
+Added Component: Designator=J5(XT30U-M)
+Added Pin To Net: NetName=48V Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=SWCLK Pin=P1-3
+Added Pin To Net: NetName=SWDIO Pin=P1-4
+Added Member To Class: ClassName=Power_Supply Member=Component J5 XT30U

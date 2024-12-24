@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=TMC_CS Pin=U1-25
+Removed Pin From Net: NetName=TMC_DIR Pin=U1-29
+Removed Pin From Net: NetName=TMC_PWM Pin=U1-30
+Added Pin To Net: NetName=TMC_DIR Pin=U1-24
+Added Pin To Net: NetName=TMC_PWM Pin=U1-25
+Added Pin To Net: NetName=TMC_CS Pin=U1-29

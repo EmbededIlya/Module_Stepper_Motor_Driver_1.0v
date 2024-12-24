@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=LED Pin=U1-44
+Added Component: Designator=P1(JST- 4X - 1.5)
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=3.3V Pin=P1-2
+Added Pin To Net: NetName=SWCLK Pin=P1-3
+Added Pin To Net: NetName=SWDIO Pin=P1-4
+Added Member To Class: ClassName=Logic.~(138) Member=Component P1 JST-1.5-4x

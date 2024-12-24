@@ -1,0 +1,7 @@
+Added Component: Designator=D7(SOT563-6)
+Added Pin To Net: NetName=G3_2 Pin=D7-1
+Added Pin To Net: NetName=G2_2 Pin=D7-3
+Added Pin To Net: NetName=LA2 Pin=D7-4
+Added Pin To Net: NetName=LA1 Pin=D7-6
+Added Member To Class: ClassName=Driver Member=Component D7 BAT40V
+Added Member To Class: ClassName=Driver Member=Component Q1 DMHT6016LFJ

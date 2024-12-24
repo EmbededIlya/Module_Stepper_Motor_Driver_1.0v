@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=CAN_FD_RX Pin=U1-46
+Added Pin To Net: NetName=PB8_BOOT0 Pin=U1-46

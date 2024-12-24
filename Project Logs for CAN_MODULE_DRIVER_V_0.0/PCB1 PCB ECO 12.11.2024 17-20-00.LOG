@@ -1,0 +1,5 @@
+Change Physical Footprint: Designator=C_RX1 Old Footprint=TP_CIRCLE1mm New Footprint=TP_CIRCLE1mm
+Change Physical Footprint: Designator=C_TX1 Old Footprint=TP_CIRCLE1mm New Footprint=TP_CIRCLE1mm
+Change Physical Footprint: Designator=U1 Old Footprint=QFN-48-0.5-7x7_TP New Footprint=QFN-48-0.5-7x7_TP
+Change Physical Footprint: Designator=U4 Old Footprint=SOIC-8_TP New Footprint=SOIC-8_TP
+Change Physical Footprint: Designator=U7 Old Footprint=TQFP48-0.5-EP New Footprint=TQFP48-0.5-EP

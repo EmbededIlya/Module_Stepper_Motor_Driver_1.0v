@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=3.3V Pin=C14-2
+Added Pin To Net: NetName=3.3V Pin=C15-2
+Added Pin To Net: NetName=3.3V Pin=C16-2
+Added Pin To Net: NetName=3.3V Pin=C20-2
+Added Pin To Net: NetName=3.3V Pin=C21-2
+Added Pin To Net: NetName=3.3V Pin=C22-2
+Added Pin To Net: NetName=3.3V Pin=C23-2
+Added Pin To Net: NetName=3.3V Pin=D4-2
+Added Pin To Net: NetName=3.3V Pin=R9-1
+Added Pin To Net: NetName=3.3V Pin=R11-1
+Added Pin To Net: NetName=3.3V Pin=R13-1
+Added Pin To Net: NetName=3.3V Pin=U4-1
+Added Pin To Net: NetName=3.3V Pin=U5-2
+Added Room: Name=Power_Supply

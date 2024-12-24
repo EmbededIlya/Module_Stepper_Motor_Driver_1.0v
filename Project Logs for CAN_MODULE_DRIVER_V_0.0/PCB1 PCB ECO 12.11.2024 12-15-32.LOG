@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=A2 Pin=C44-2
+Removed Pin From Net: NetName=B2 Pin=C45-2
+Removed Pin From Net: NetName=A1 Pin=C46-2
+Removed Pin From Net: NetName=B1 Pin=C47-2
+Removed Pin From Net: NetName=B1 Pin=Q1-14
+Removed Pin From Net: NetName=B2 Pin=Q1-15
+Removed Pin From Net: NetName=A1 Pin=Q2-14
+Removed Pin From Net: NetName=A2 Pin=Q2-15
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=A1 Pin=C44-2
+Added Pin To Net: NetName=B1 Pin=C45-2
+Added Pin To Net: NetName=A2 Pin=C46-2
+Added Pin To Net: NetName=B2 Pin=C47-2
+Added Pin To Net: NetName=B2 Pin=Q1-14
+Added Pin To Net: NetName=B1 Pin=Q1-15
+Added Pin To Net: NetName=A2 Pin=Q2-14
+Added Pin To Net: NetName=A1 Pin=Q2-15
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Member To Class: ClassName=Driver Member=Component Q2 DMHT6016LFJ

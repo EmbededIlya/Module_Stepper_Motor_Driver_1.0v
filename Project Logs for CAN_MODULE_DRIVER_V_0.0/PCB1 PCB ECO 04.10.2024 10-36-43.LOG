@@ -1,0 +1,321 @@
+Removed Pin From Net: NetName=NetD2_4 Pin=R9-1
+Removed Pin From Net: NetName=NetD2_3 Pin=R9-2
+Removed Pin From Net: NetName=NetD2_6 Pin=R10-1
+Removed Pin From Net: NetName=NetD2_1 Pin=R10-2
+Removed Pin From Net: NetName=NetD3_6 Pin=R12-1
+Removed Pin From Net: NetName=NetD3_1 Pin=R12-2
+Removed Pin From Net: NetName=NetD4_4 Pin=R13-1
+Removed Pin From Net: NetName=NetD4_3 Pin=R13-2
+Removed Pin From Net: NetName=NetD4_6 Pin=R14-1
+Removed Pin From Net: NetName=NetD4_1 Pin=R14-2
+Removed Pin From Net: NetName=NetD1_6 Pin=R15-1
+Removed Pin From Net: NetName=NetD1_1 Pin=R15-2
+Removed Pin From Net: NetName=NetD3_4 Pin=R16-1
+Removed Pin From Net: NetName=NetD3_3 Pin=R16-2
+Removed Member From Class: ClassName=Driver Member=R9
+Removed Member From Class: ClassName=Driver Member=R10
+Removed Member From Class: ClassName=Driver Member=R12
+Removed Member From Class: ClassName=Driver Member=R13
+Removed Member From Class: ClassName=Driver Member=R14
+Removed Member From Class: ClassName=Driver Member=R15
+Removed Member From Class: ClassName=Driver Member=R16
+Change Component Comment : Designator=Y1 Old Comment=24MHz 9pF ±10ppm  New Comment=48MHz 7pF ±10ppm 
+Change Component Comment : Designator=R11 Old Comment=150 Ohm 1/8 W  New Comment=57.6 Ohm 1/8 W 
+Change component parameters: Designator = "C5" ("C5"); Footprint = "0603"; UniqueID = "\JYRWEEEU" ("\JYRWEEEU")
+Change component parameters (AddParameter): Name = "BOMString"; Value = " 1 µF 10V ±10% 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = " 1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = "CA0134517"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "GRM188R61A105KA61D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "0603"; UniqueID = "\JOEIDPKC" ("\JOEIDPKC")
+Change component parameters (AddParameter): Name = "BOMString"; Value = " 1 µF 10V ±10% 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = " 1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = "CA0134517"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "GRM188R61A105KA61D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "0603"; UniqueID = "\LAUVWDGH" ("\LAUVWDGH")
+Change component parameters (AddParameter): Name = "BOMString"; Value = " 1 µF 10V ±10% 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = " 1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = "CA0134517"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "GRM188R61A105KA61D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "0603"; UniqueID = "\FSSOLDPH" ("\FSSOLDPH")
+Change component parameters (AddParameter): Name = "BOMString"; Value = " 1 µF 10V ±10% 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = " 1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = "CA0134517"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "GRM188R61A105KA61D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "0402"; UniqueID = "\QLEARRYE" ("\QLEARRYE")
+Change component parameters (AddParameter): Name = "BOMString"; Value = "57.6 Ohm ±1% 1/8 W 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = "RE0023917"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1/8 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "57.6 Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "2016"; UniqueID = "\OAFMZDPO" ("\OAFMZDPO")
+Change component parameters (AddParameter): Name = "BOMString"; Value = "48MHz 7pF ±10ppm 2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "48MHz 7pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "http://geyer-electronic.de/uploads/tx_userartikelfrequenz/GEYER-KX-9A_01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HD FREQUENCY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "7D048000C01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10ppm"; VariantName = "[No Variations]"
+Added Component: Designator=C?(1206)
+Add component (AddParameter): Name = "BOMString"; Value = "1 µF 100V ±10% 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "CA0182199"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "GRM31CR72A105KA01L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(1206)
+Add component (AddParameter): Name = "BOMString"; Value = "22 µF 10V ±10% 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "22 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "CA0135297"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CL31A226KPHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805)
+Add component (AddParameter): Name = "BOMString"; Value = "10 µF 16V ±10% 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "CA0134789"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "GRM21BR61C106KE15L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0603)
+Add component (AddParameter): Name = "BOMString"; Value = "0.1 µF 16V ±10% 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "CA0134460"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CC0603KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SOD-123FL)
+Add component (AddParameter): Name = "BOMString"; Value = "STPS0560Z  60 V 'SOD-123FL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "DS0002882"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "STPS0560Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price(1)"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price(100)"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "supplier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "60 V"; VariantName = "[No Variations]"
+Added Component: Designator=L?(SMD 7.3x7.3mm)
+Add component (AddParameter): Name = "BOMString"; Value = "22uH ±20% SMD 7.3x7.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "1.23 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "IN0020830"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "22uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sumida"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CDRH74NP-220MC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.077 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Added Component: Designator=P1(KF2510)
+Add component (AddParameter): Name = "BOMString"; Value = "Header 2x pins vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "KF2510"; VariantName = "[No Variations]"
+Added Component: Designator=P2(KF2510)
+Add component (AddParameter): Name = "BOMString"; Value = "Header 2x pins vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "KF2510"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "10 kOhm ±1% 1/8 W 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "RE0210066"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "RC0402FR-7W10KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10 kOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0805)
+Add component (AddParameter): Name = "BOMString"; Value = "100 kOhm ±1% 1/8 W 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "RE0023917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100 kOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "54,9 kOhm ±1% 1/16 W 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "RE0186870"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "RC0402FR-0754K9L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/16 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "54,9 kOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "57.6 Ohm ±1% 1/8 W 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "RE0023917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "57.6 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "57.6 Ohm ±1% 1/8 W 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "RE0023917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "57.6 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "57.6 Ohm ±1% 1/8 W 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "RE0023917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "57.6 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "57.6 Ohm ±1% 1/8 W 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "RE0023917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "57.6 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "57.6 Ohm ±1% 1/8 W 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "RE0023917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "57.6 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "57.6 Ohm ±1% 1/8 W 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "RE0023917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "57.6 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R?(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "57.6 Ohm ±1% 1/8 W 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "RE0023917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/8 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "57.6 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT-23-6)
+Added Pin To Net: NetName=NetC13_1 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=3.3V Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-4
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetD1_6 Pin=R?-1
+Added Pin To Net: NetName=NetD2_4 Pin=R?-1
+Added Pin To Net: NetName=NetD2_6 Pin=R?-1
+Added Pin To Net: NetName=NetD3_4 Pin=R?-1
+Added Pin To Net: NetName=NetD3_6 Pin=R?-1
+Added Pin To Net: NetName=NetD4_4 Pin=R?-1
+Added Pin To Net: NetName=NetD4_6 Pin=R?-1
+Added Pin To Net: NetName=NetC13_1 Pin=R?-2
+Added Pin To Net: NetName=NetD1_1 Pin=R?-2
+Added Pin To Net: NetName=NetD2_1 Pin=R?-2
+Added Pin To Net: NetName=NetD2_3 Pin=R?-2
+Added Pin To Net: NetName=NetD3_1 Pin=R?-2
+Added Pin To Net: NetName=NetD3_3 Pin=R?-2
+Added Pin To Net: NetName=NetD4_1 Pin=R?-2
+Added Pin To Net: NetName=NetD4_3 Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=NetC13_1 Pin=U?-5
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=L?-2
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-4
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=PA13 Pin=P?-2
+Added Net: Name=PA13
+Added Pin To Net: NetName=PA14 Pin=P?-3
+Added Net: Name=PA14
+Added Member To Class: ClassName=Power_Supply Member=Component C? 1 µF 100V X7R ±10% 
+Added Member To Class: ClassName=Power_Supply Member=Component C? 22 µF 10V X5R ±10% 
+Added Member To Class: ClassName=Power_Supply Member=Component C? 10 µF 16V X5R ±10% 
+Added Member To Class: ClassName=Power_Supply Member=Component C? 0.1 µF 16V X7R ±10% 
+Added Member To Class: ClassName=Power_Supply Member=Component D? STPS0560Z 60 V
+Added Member To Class: ClassName=Power_Supply Member=Component L? 22uH 1.23 A ±20%
+Added Member To Class: ClassName=CANFD Member=Component P1 KF2510
+Added Member To Class: ClassName=CANFD Member=Component P2 KF2510
+Added Member To Class: ClassName=Logic Member=Component P? Header 4
+Added Member To Class: ClassName=Driver Member=Component R? 57.6 Ohm 1/8 W 
+Added Member To Class: ClassName=Driver Member=Component R? 57.6 Ohm 1/8 W 
+Added Member To Class: ClassName=Driver Member=Component R? 57.6 Ohm 1/8 W 
+Added Member To Class: ClassName=Driver Member=Component R? 57.6 Ohm 1/8 W 
+Added Member To Class: ClassName=Driver Member=Component R? 57.6 Ohm 1/8 W 
+Added Member To Class: ClassName=Driver Member=Component R? 57.6 Ohm 1/8 W 
+Added Member To Class: ClassName=Driver Member=Component R? 57.6 Ohm 1/8 W 
+Added Member To Class: ClassName=Power_Supply Member=Component R? 10 kOhm 1/8 W 
+Added Member To Class: ClassName=Power_Supply Member=Component R? 100 kOhm 1/8 W 
+Added Member To Class: ClassName=Power_Supply Member=Component R? 54,9 kOhm 1/16 W 
+Added Member To Class: ClassName=Power_Supply Member=Component U? LMR16006YDDCR

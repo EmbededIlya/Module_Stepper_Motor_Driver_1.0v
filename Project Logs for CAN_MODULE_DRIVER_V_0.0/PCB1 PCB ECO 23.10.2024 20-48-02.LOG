@@ -1,0 +1,116 @@
+Removed Pin From Net: NetName=3.3V Pin=C10-2
+Removed Pin From Net: NetName=5V Pin=C11-2
+Change component parameters: Designator = "C7" ("C7"); Footprint = "0201"; UniqueID = "\DBSIYKDP" ("\DBSIYKDP")
+Change component parameters (AddParameter): Name = "BOMString"; Value = " 1 µF 16V ±20% 0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = " 1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = "CA0134517"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "GRM033R61C105ME15D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "0603"; UniqueID = "\JOEIDPKC" ("\JOEIDPKC")
+Change component parameters (AddParameter): Name = "BOMString"; Value = " 1 µF 10V ±10% 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = " 1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = "CA0134517"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "GRM188R61A105KA61D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "0603"; UniqueID = "\LAUVWDGH" ("\LAUVWDGH")
+Change component parameters (AddParameter): Name = "BOMString"; Value = " 1 µF 10V ±10% 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = " 1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = "CA0134517"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "GRM188R61A105KA61D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "0603"; UniqueID = "\FSSOLDPH" ("\FSSOLDPH")
+Change component parameters (AddParameter): Name = "BOMString"; Value = " 1 µF 10V ±10% 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = " 1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = "CA0134517"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "GRM188R61A105KA61D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C46" ("C46"); Footprint = "0201"; UniqueID = "\LXXQNCJA" ("\LXXQNCJA")
+Change component parameters (AddParameter): Name = "BOMString"; Value = " 1 µF 16V ±20% 0201"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = " 1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = "CA0134517"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "GRM033R61C105ME15D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=D8(SOT23-6L)
+Add component (AddParameter): Name = "BOMString"; Value = "USBLC6-2 3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "USBLC6-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price10k"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3"; VariantName = "[No Variations]"
+Added Component: Designator=J4(XT30U-M)
+Added Component: Designator=J5(B4P-VH(LF)(SN))
+Add component (AddParameter): Name = "BOMString"; Value = "Header 4x1 pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "B4P-VH(LF)(SN)"; VariantName = "[No Variations]"
+Added Component: Designator=J6(XT30U-M)
+Added Pin To Net: NetName=5V Pin=C10-2
+Added Pin To Net: NetName=3.3V Pin=C11-2
+Added Pin To Net: NetName=-D Pin=D8-1
+Added Pin To Net: NetName=3.3V Pin=D8-2
+Added Pin To Net: NetName=+D Pin=D8-3
+Added Pin To Net: NetName=+D Pin=D8-4
+Added Pin To Net: NetName=-D Pin=D8-6
+Added Pin To Net: NetName=NetC13_1 Pin=J4-1
+Added Pin To Net: NetName=3.3V Pin=J4-2
+Added Pin To Net: NetName=NetC13_1 Pin=J6-1
+Added Pin To Net: NetName=3.3V Pin=J6-2
+Added Pin To Net: NetName=A1 Pin=C40-1
+Added Pin To Net: NetName=A1 Pin=J5-1
+Added Pin To Net: NetName=A1 Pin=Q2-14
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=C38-1
+Added Pin To Net: NetName=A2 Pin=J5-2
+Added Pin To Net: NetName=A2 Pin=Q2-15
+Added Net: Name=A2
+Added Pin To Net: NetName=B1 Pin=C41-1
+Added Pin To Net: NetName=B1 Pin=J5-3
+Added Pin To Net: NetName=B1 Pin=Q1-14
+Added Net: Name=B1
+Added Pin To Net: NetName=B2 Pin=C39-1
+Added Pin To Net: NetName=B2 Pin=J5-4
+Added Pin To Net: NetName=B2 Pin=Q1-15
+Added Net: Name=B2
+Added Pin To Net: NetName=NetD7_1 Pin=D8-5
+Added Net: Name=NetD7_1
+Added Member To Class: ClassName=Logic Member=Component C10 100nF 10V X5R ±10% 
+Added Member To Class: ClassName=Logic Member=Component C11 100nF 10V X5R ±10% 
+Added Member To Class: ClassName=Logic Member=Component C_RX1 TestPoint
+Added Member To Class: ClassName=Logic Member=Component C_TX1 TestPoint
+Added Member To Class: ClassName=Logic Member=Component D5 VRWM=24V, VBR(Min)=26.2 V, VC=44 V
+Added Member To Class: ClassName=Logic Member=Component D8 3.3
+Added Member To Class: ClassName=Logic Member=Component J1 JST-1.5-2
+Added Member To Class: ClassName=Logic Member=Component J2 JST-1.5-2
+Added Member To Class: ClassName=Power_Supply Member=Component J4 XT30U
+Added Member To Class: ClassName=Driver Member=Component J5 B4P-VH(LF)(SN)
+Added Member To Class: ClassName=Power_Supply Member=Component J6 XT30U
+Added Member To Class: ClassName=Logic Member=Component R3 120 Ohm 1/4 W 
+Added Member To Class: ClassName=Logic Member=Component SW1 Switch_DIP
+Added Member To Class: ClassName=Logic Member=Component U2 CAN_FD
+Change Room Name: Old Name=CANFD New Name=Power_Supply
+Change Room Scope: Old Scope=InComponentClass('CANFD') New Scope=InComponentClass('Power_Supply')
+Added Room: Name=Driver
+Added Room: Name=Logic

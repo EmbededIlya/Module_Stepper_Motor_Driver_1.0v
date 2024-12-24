@@ -1,0 +1,8 @@
+Change Component Kind : Designator=NT4 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=NT3 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=NT2 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=NT1 Old Kind=Net Tie New Kind=Standard
+Added Pin To Net: NetName=NetNT1_1 Pin=NT1-1
+Added Pin To Net: NetName=GND Pin=NT2-1
+Added Pin To Net: NetName=NetNT3_1 Pin=NT3-1
+Added Pin To Net: NetName=GND Pin=NT4-1

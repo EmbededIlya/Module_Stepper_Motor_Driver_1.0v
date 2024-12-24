@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SWDIO Pin=P1-1
+Removed Pin From Net: NetName=SWCLK Pin=P1-2
+Removed Pin From Net: NetName=3.3V Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=3.3V Pin=P1-2
+Added Pin To Net: NetName=SWDIO Pin=P1-3
+Added Pin To Net: NetName=SWCLK Pin=P1-4
+Added Member To Class: ClassName=Driver Member=Component D8 BAT40V
+Added Member To Class: ClassName=Driver Member=Component R18 10 Ohm 1/16 W 
+Added Member To Class: ClassName=Driver Member=Component R19 10 Ohm 1/16 W 

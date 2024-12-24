@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC17_1 Pin=L2-1
+Removed Pin From Net: NetName=5V Pin=L2-2
+Removed Member From Class: ClassName=Power_Supply Member=L2
+Added Component: Designator=L?(SRN5040)
+Add component (AddParameter): Name = "BOMString"; Value = "22uH ±20% SRN5040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "1.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HQ Part"; Value = "IN0024300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "22uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sunlord"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "SWPA5040S220MT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "168m?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC17_1 Pin=L?-1
+Added Pin To Net: NetName=5V Pin=L?-2
+Added Member To Class: ClassName=Power_Supply Member=Component L? 22uH 1.5 A ±20%

@@ -1,0 +1,441 @@
+Added Component: Designator=C4(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "10nF 16V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CC0402KRX7R6BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "10pF 50V ±0.25 pF 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "C0G (NP0)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CC0402CRNPO9BN100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±0.25 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "10pF 50V ±0.25 pF 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "C0G (NP0)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CC0402CRNPO9BN100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±0.25 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C19(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "100nF 50V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C21(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "2.2 µF 50V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "2.2 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C22(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "2.2 µF 50V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "2.2 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C23(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "470nF 50V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "470nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C24(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "100nF 50V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C25(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "22nF 100V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "22nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C26(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "100nF 16V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C27(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "220nF 16V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C28(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "220nF 16V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C29(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "220nF 16V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C30(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "220nF 16V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C31(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "2.2nF 100V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "2.2nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C32(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "2.2nF 100V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "2.2nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C33(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "100nF 50V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C34(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "220nF 100V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C35(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "220nF 100V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C36(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "220nF 100V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C37(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "220nF 100V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "220nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C38(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "1nF 100V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C39(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "1nF 100V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C40(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "1nF 100V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C41(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "1nF 100V ±10% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "<name>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=L1(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "1K? 100Mhz 200mA ±20% 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "1K? 100Mhz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "LQG15HSR10J02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = "1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "10K ±1% 1/5W 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "SR0402FR-7T10KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0402)
+Add component (AddParameter): Name = "BOMString"; Value = "10K ±1% 1/5W 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "SR0402FR-7T10KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Added Component: Designator=S1(B3U1000PB)
+Add component (AddParameter): Name = "BOMString"; Value = "B3U1000PB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.te.com/usa-en/product-1437566-3.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "B3U1000PB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price(1)"; Value = "0.218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price(100)"; Value = "0.1817"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "http://www.compel.ru/infosheet/TE/1437566-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B3U1000PB"; VariantName = "[No Variations]"
+Added Component: Designator=S2(B3U1000PB)
+Add component (AddParameter): Name = "BOMString"; Value = "B3U1000PB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.te.com/usa-en/product-1437566-3.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "B3U1000PB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price(1)"; Value = "0.218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price(100)"; Value = "0.1817"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "http://www.compel.ru/infosheet/TE/1437566-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B3U1000PB"; VariantName = "[No Variations]"
+Added Component: Designator=U1(QFN-48-0.5-7x7_TP)
+Added Component: Designator=U3(SOT-23-6)
+Added Component: Designator=U5(TSSOP-14-0.65)
+Added Component: Designator=U6(TQFP48-0.5-EP)
+Added Component: Designator=Y1(2016)
+Add component (AddParameter): Name = "BOMString"; Value = "24MHz 9pF ±10ppm 2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "24MHz 9pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://geyer-electronic.de/uploads/tx_userartikelfrequenz/GEYER-KX-9A_01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "L214S240FH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10ppm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD33A Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=NetC25_2 Pin=C25-2
+Added Pin To Net: NetName=NetC26_1 Pin=C26-1
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC29_1 Pin=C29-1
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=NetC30_1 Pin=C30-1
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC31_1 Pin=C31-1
+Added Pin To Net: NetName=NetC31_2 Pin=C31-2
+Added Pin To Net: NetName=NetC32_1 Pin=C32-1
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=NetC26_2 Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=NetC26_2 Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=NetC26_2 Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=NetC26_2 Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=NetC26_2 Pin=C37-2
+Added Pin To Net: NetName=NetC38_1 Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=NetC38_1 Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=NetC40_1 Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=NetC40_1 Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=3.3V Pin=L1-1
+Added Pin To Net: NetName=VDD33A Pin=L1-2
+Added Pin To Net: NetName=NRST Pin=R1-1
+Added Pin To Net: NetName=3.3V Pin=R1-2
+Added Pin To Net: NetName=PB8_BOOT0 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=NRST Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=3.3V Pin=S2-1
+Added Pin To Net: NetName=PB8_BOOT0 Pin=S2-2
+Added Pin To Net: NetName=GND Pin=U1-0
+Added Pin To Net: NetName=VBAT Pin=U1-1
+Added Pin To Net: NetName=NetC8_1 Pin=U1-5
+Added Pin To Net: NetName=NetC9_1 Pin=U1-6
+Added Pin To Net: NetName=NRST Pin=U1-7
+Added Pin To Net: NetName=VDD33A Pin=U1-20
+Added Pin To Net: NetName=VDD33A Pin=U1-21
+Added Pin To Net: NetName=3.3V Pin=U1-23
+Added Pin To Net: NetName=3.3V Pin=U1-35
+Added Pin To Net: NetName=PB8_BOOT0 Pin=U1-46
+Added Pin To Net: NetName=3.3V Pin=U1-48
+Added Pin To Net: NetName=NetC12_2 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=NetR5_1 Pin=U3-3
+Added Pin To Net: NetName=NetR4_1 Pin=U3-4
+Added Pin To Net: NetName=NetC13_1 Pin=U3-5
+Added Pin To Net: NetName=NetC12_1 Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=NetC18_2 Pin=U5-11
+Added Pin To Net: NetName=NetC20_1 Pin=U5-12
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=NetD2_4 Pin=U6-1
+Added Pin To Net: NetName=NetC28_1 Pin=U6-2
+Added Pin To Net: NetName=NetC21_2 Pin=U6-3
+Added Pin To Net: NetName=NetC19_2 Pin=U6-4
+Added Pin To Net: NetName=NetC22_2 Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U6-6
+Added Pin To Net: NetName=NetC32_1 Pin=U6-7
+Added Pin To Net: NetName=NetC32_2 Pin=U6-8
+Added Pin To Net: NetName=NetC31_2 Pin=U6-9
+Added Pin To Net: NetName=NetC31_1 Pin=U6-10
+Added Pin To Net: NetName=GND Pin=U6-11
+Added Pin To Net: NetName=GND Pin=U6-19
+Added Pin To Net: NetName=DIAG0 Pin=U6-26
+Added Pin To Net: NetName=NetC23_2 Pin=U6-29
+Added Pin To Net: NetName=GND Pin=U6-30
+Added Pin To Net: NetName=NetC25_1 Pin=U6-31
+Added Pin To Net: NetName=NetC25_2 Pin=U6-32
+Added Pin To Net: NetName=NetC26_2 Pin=U6-33
+Added Pin To Net: NetName=NetC26_1 Pin=U6-34
+Added Pin To Net: NetName=NetC29_1 Pin=U6-35
+Added Pin To Net: NetName=NetD3_6 Pin=U6-36
+Added Pin To Net: NetName=NetC29_2 Pin=U6-37
+Added Pin To Net: NetName=NetD3_4 Pin=U6-38
+Added Pin To Net: NetName=NetD4_6 Pin=U6-39
+Added Pin To Net: NetName=NetC30_2 Pin=U6-40
+Added Pin To Net: NetName=NetD4_4 Pin=U6-41
+Added Pin To Net: NetName=NetC30_1 Pin=U6-42
+Added Pin To Net: NetName=NetC27_1 Pin=U6-43
+Added Pin To Net: NetName=NetD1_6 Pin=U6-44
+Added Pin To Net: NetName=NetC27_2 Pin=U6-45
+Added Pin To Net: NetName=NetD1_4 Pin=U6-46
+Added Pin To Net: NetName=NetD2_6 Pin=U6-47
+Added Pin To Net: NetName=NetC28_2 Pin=U6-48
+Added Pin To Net: NetName=GND Pin=U6-49
+Added Pin To Net: NetName=NetC9_1 Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=NetC9_1 Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Member To Class: ClassName=Logic Member=Component C4 10nF 16V X7R ±10% 
+Added Member To Class: ClassName=Logic Member=Component C8 10pF 50V C0G (NP0) ±0.25 pF 
+Added Member To Class: ClassName=Logic Member=Component C9 10pF 50V C0G (NP0) ±0.25 pF 
+Added Member To Class: ClassName=Driver Member=Component C19 100nF 50V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C21 2.2 µF 50V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C22 2.2 µF 50V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C23 470nF 50V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C24 100nF 50V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C25 22nF 100V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C26 100nF 16V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C27 220nF 16V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C28 220nF 16V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C29 220nF 16V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C30 220nF 16V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C31 2.2nF 100V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C32 2.2nF 100V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C33 100nF 50V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C34 220nF 100V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C35 220nF 100V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C36 220nF 100V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C37 220nF 100V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C38 1nF 100V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C39 1nF 100V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C40 1nF 100V ±10% 
+Added Member To Class: ClassName=Driver Member=Component C41 1nF 100V ±10% 
+Added Member To Class: ClassName=Logic Member=Component L1 1K? 100Mhz 200mA ±20% 
+Added Member To Class: ClassName=Logic Member=Component R1 10K 1/5W 
+Added Member To Class: ClassName=Logic Member=Component R2 10K 1/5W 
+Added Member To Class: ClassName=Logic Member=Component S1 B3U1000PB
+Added Member To Class: ClassName=Logic Member=Component S2 B3U1000PB
+Added Member To Class: ClassName=Logic Member=Component U1 STM32G431CBU6
+Added Member To Class: ClassName=Power_Supply Member=Component U3 LMR16006YDDCR
+Added Member To Class: ClassName=Driver Member=Component U5 AS5047P
+Added Member To Class: ClassName=Driver Member=Component U6 TMC5160
+Added Member To Class: ClassName=Logic Member=Component Y1 24MHz 9pF ±10ppm 
+Added Room: Name=CANFD
+Added Room: Name=Driver
+Added Room: Name=Logic
+Added Room: Name=Power_Supply

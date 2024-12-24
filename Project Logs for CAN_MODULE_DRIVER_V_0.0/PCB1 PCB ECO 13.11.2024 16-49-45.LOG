@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SPI_MODE Pin=U1-10
+Removed Pin From Net: NetName=TMC_DRV_ENN Pin=U1-11
+Added Pin To Net: NetName=TMC_DRV_ENN Pin=U1-10
+Added Pin To Net: NetName=SPI_MODE Pin=U1-11

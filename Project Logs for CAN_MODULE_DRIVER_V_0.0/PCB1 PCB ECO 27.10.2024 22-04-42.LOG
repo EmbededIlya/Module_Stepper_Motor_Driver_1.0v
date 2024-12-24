@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=3.3V Pin=C1-1
+Removed Pin From Net: NetName=3.3V Pin=C2-2
+Removed Pin From Net: NetName=3.3V Pin=C3-2
+Removed Pin From Net: NetName=3.3V Pin=C6-1
+Removed Pin From Net: NetName=3.3V Pin=C8-1
+Removed Pin From Net: NetName=3.3V Pin=D2-2
+Removed Pin From Net: NetName=3.3V Pin=D3-3
+Removed Pin From Net: NetName=3.3V Pin=J1-A1B12
+Removed Pin From Net: NetName=3.3V Pin=J1-A12B1
+Removed Pin From Net: NetName=3.3V Pin=LD1-2
+Removed Pin From Net: NetName=3.3V Pin=LD2-2
+Removed Pin From Net: NetName=3.3V Pin=P1-4
+Removed Pin From Net: NetName=3.3V Pin=R2-2
+Removed Pin From Net: NetName=3.3V Pin=S1-2
+Removed Pin From Net: NetName=3.3V Pin=U2-2
+Removed Pin From Net: NetName=3.3V Pin=U2-8
+Removed Pin From Net: NetName=3.3V Pin=Y1-2
+Removed Pin From Net: NetName=3.3V Pin=Y1-4
+Added Pin To Net: NetName=GND_D Pin=C1-1
+Added Pin To Net: NetName=GND_D Pin=C2-2
+Added Pin To Net: NetName=GND_D Pin=C3-2
+Added Pin To Net: NetName=GND_D Pin=C6-1
+Added Pin To Net: NetName=GND_D Pin=C8-1
+Added Pin To Net: NetName=GND_D Pin=D2-2
+Added Pin To Net: NetName=GND_D Pin=D3-3
+Added Pin To Net: NetName=GND_D Pin=J1-A1B12
+Added Pin To Net: NetName=GND_D Pin=J1-A12B1
+Added Pin To Net: NetName=GND_D Pin=LD1-2
+Added Pin To Net: NetName=GND_D Pin=LD2-2
+Added Pin To Net: NetName=GND_D Pin=P1-4
+Added Pin To Net: NetName=GND_D Pin=R2-2
+Added Pin To Net: NetName=GND_D Pin=S1-2
+Added Pin To Net: NetName=GND_D Pin=U2-2
+Added Pin To Net: NetName=GND_D Pin=U2-8
+Added Pin To Net: NetName=GND_D Pin=Y1-2
+Added Pin To Net: NetName=GND_D Pin=Y1-4
+Added Net: Name=GND_D
+Added Room: Name=Driver
+Added Room: Name=Power_Supply

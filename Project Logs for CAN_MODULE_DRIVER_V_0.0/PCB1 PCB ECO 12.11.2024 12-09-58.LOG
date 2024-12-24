@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=G1 Pin=Q2-1
+Removed Pin From Net: NetName=48V Pin=Q2-2
+Removed Pin From Net: NetName=A1 Pin=Q2-3
+Removed Pin From Net: NetName=G2 Pin=Q2-4
+Removed Pin From Net: NetName=G3 Pin=Q2-9
+Removed Pin From Net: NetName=A2 Pin=Q2-10
+Removed Pin From Net: NetName=48V Pin=Q2-11
+Removed Pin From Net: NetName=G4 Pin=Q2-12
+Removed Pin From Net: NetName=48V Pin=Q2-13
+Removed Pin From Net: NetName=A1 Pin=Q2-14
+Removed Pin From Net: NetName=A2 Pin=Q2-15
+Removed Member From Class: ClassName=Driver Member=Q2
+Added Component: Designator=Q?(V-DFN5045-12 (Type B))
+Add component (AddParameter): Name = "BOMString"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value I"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value U"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=G3 Pin=Q?-1
+Added Pin To Net: NetName=A2 Pin=Q?-3
+Added Pin To Net: NetName=G4 Pin=Q?-4
+Added Pin To Net: NetName=48V Pin=Q?-5
+Added Pin To Net: NetName=48V Pin=Q?-6
+Added Pin To Net: NetName=48V Pin=Q?-7
+Added Pin To Net: NetName=48V Pin=Q?-8
+Added Pin To Net: NetName=G1 Pin=Q?-9
+Added Pin To Net: NetName=A1 Pin=Q?-10
+Added Pin To Net: NetName=G2 Pin=Q?-12
+Added Pin To Net: NetName=A2 Pin=Q?-14
+Added Pin To Net: NetName=A1 Pin=Q?-15
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-11
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-13
+Added Pin To Net: NetName=NetQ?_2 Pin=R24-2
+Added Pin To Net: NetName=NetQ?_2 Pin=R28-2
+Added Net: Name=NetQ?_2
+Added Member To Class: ClassName=Driver Member=Component D5 BAT40V
+Added Member To Class: ClassName=Driver Member=Component D6 BAT40V
+Added Member To Class: ClassName=Driver Member=Component D7 BAT40V
+Added Member To Class: ClassName=Driver Member=Component D8 BAT40V
+Added Member To Class: ClassName=Driver Member=Component Q? DMHT6016LFJ
+Added Member To Class: ClassName=Driver Member=Component R19 10 Ohm 1/16 W 

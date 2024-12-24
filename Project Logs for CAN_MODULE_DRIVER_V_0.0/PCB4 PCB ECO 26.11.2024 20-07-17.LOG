@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=ENC_B Pin=P4-1
+Removed Pin From Net: NetName=5V Pin=P4-4
+Added Pin To Net: NetName=5V Pin=P4-1
+Added Pin To Net: NetName=ENC_B Pin=P4-4
+Change Net Name : Old Net Name=ENC_A New Net Name=ENC_I
+Change Net Name : Old Net Name=ENC_I New Net Name=ENC_A
+Added Member To Class: ClassName=Logic.~(138) Member=Component D2 3.3

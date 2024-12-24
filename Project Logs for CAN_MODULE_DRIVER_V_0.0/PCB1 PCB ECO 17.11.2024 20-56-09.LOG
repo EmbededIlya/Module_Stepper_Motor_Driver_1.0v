@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=5V Pin=D1-1
+Removed Member From Class: ClassName=Logic.~(138) Member=D1
+Added Component: Designator=D?(SOD-123FL)
+Add component (AddParameter): Name = "Device"; Value = "diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "SM5819PL-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price(100)"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "40 V, 1 A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=D2-5
+Added Pin To Net: NetName=5V Pin=J1-A4B9
+Added Pin To Net: NetName=5V Pin=J1-A9B4
+Added Member To Class: ClassName=Logic.~(138) Member=Component D? 40 V, 1 A

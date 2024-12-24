@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Added Room: Name=Driver
+Added Room: Name=Logic
+Added Room: Name=Power_Supply

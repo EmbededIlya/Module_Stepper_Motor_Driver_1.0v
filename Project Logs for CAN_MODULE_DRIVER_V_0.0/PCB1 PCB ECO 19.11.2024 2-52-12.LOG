@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=BUCK1_FB Pin=R10-1
+Removed Pin From Net: NetName=BUCK1_FB Pin=R11-2
+Removed Pin From Net: NetName=BUCK1_FB Pin=U4-5
+Added Pin To Net: NetName=BUCK2_FB Pin=R10-1
+Added Pin To Net: NetName=BUCK2_FB Pin=R11-2
+Added Pin To Net: NetName=BUCK2_FB Pin=U4-5
+Added Net: Name=BUCK2_FB

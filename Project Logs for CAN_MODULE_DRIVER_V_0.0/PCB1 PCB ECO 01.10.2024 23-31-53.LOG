@@ -1,0 +1,12 @@
+Added Component: Designator=P1(KF2510)
+Add component (AddParameter): Name = "BOMString"; Value = "Header 2x pins vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "KF2510"; VariantName = "[No Variations]"
+Added Component: Designator=P2(KF2510)
+Add component (AddParameter): Name = "BOMString"; Value = "Header 2x pins vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "KF2510"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=CANFD Member=Component P1 KF2510
+Added Member To Class: ClassName=CANFD Member=Component P2 KF2510
+Added Room: Name=CANFD
+Added Room: Name=Driver
+Added Room: Name=Logic
+Added Room: Name=Power_Supply

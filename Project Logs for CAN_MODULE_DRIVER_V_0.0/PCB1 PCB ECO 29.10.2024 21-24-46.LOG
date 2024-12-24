@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SD_MODE Pin=C29-1
+Removed Pin From Net: NetName=SD_MODE Pin=U7-20
+Added Pin To Net: NetName=3.3V Pin=C29-1
+Added Pin To Net: NetName=3.3V Pin=U7-20
+Added Room: Name=Driver
+Added Room: Name=Logic
+Added Room: Name=Power_Supply

@@ -1,0 +1,5 @@
+Added Component: Designator=P2(JST- 4X - 1.5)
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=12V_PERIH Pin=P2-2
+Added Pin To Net: NetName=SRAH_N Pin=P2-4
+Added Member To Class: ClassName=Power_Supply Member=Component P2 JST-1.5-4x

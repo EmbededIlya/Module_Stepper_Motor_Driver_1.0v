@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=NetC18_1 New Net Name=BUCK1_SW
+Change Net Name : Old Net Name=NetC18_2 New Net Name=BUCK1_CB
+Change Net Name : Old Net Name=NetR8_1 New Net Name=BUCK1_SHDN
+Change Net Name : Old Net Name=NetR12_1 New Net Name=BUCK1_FB
+Added Room: Name=Power_Supply

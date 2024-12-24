@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=LED Pin=U1-44
+Change Component Footprint: Designator=S1 Old Footprint=B3U1000PB New Footprint=B3U3000P
+Change Component Footprint: Designator=S2 Old Footprint=B3U1000PB New Footprint=B3U3000P
+Change Component Comment : Designator=S1 Old Comment=B3U1000PB New Comment=B3U3000P
+Change Component Comment : Designator=S2 Old Comment=B3U1000PB New Comment=B3U3000P
+Change component parameters: Designator = "C10" ("C10"); Footprint = "0402"; UniqueID = "\DBSIYKDP" ("\DBSIYKDP")
+Change component parameters (AddParameter): Name = "BOMString"; Value = " 1 µF 16V ±10% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = " 1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "CC0402KRX5R7BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "0402"; UniqueID = "\HFSFIPEZ" ("\HFSFIPEZ")
+Change component parameters (AddParameter): Name = "BOMString"; Value = " 1 µF 16V ±10% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = " 1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "CC0402KRX5R7BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S1" ("S1"); Footprint = "B3U1000PB"; UniqueID = "\GRSWWBGL" ("\GRSWWBGL")
+Change component parameters (AddParameter): Name = "BOMString"; Value = "B3U3000P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "http://www.te.com/usa-en/product-1437566-3.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "B3U3000P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price(1)"; Value = "0.218"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price(100)"; Value = "0.1817"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "http://www.compel.ru/infosheet/TE/1437566-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "B3U3000P"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S2" ("S2"); Footprint = "B3U1000PB"; UniqueID = "\MXHPRHRD" ("\MXHPRHRD")
+Change component parameters (AddParameter): Name = "BOMString"; Value = "B3U3000P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "http://www.te.com/usa-en/product-1437566-3.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "B3U3000P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price(1)"; Value = "0.218"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price(100)"; Value = "0.1817"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "http://www.compel.ru/infosheet/TE/1437566-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "B3U3000P"; VariantName = "[No Variations]"
+Added Component: Designator=P1(JST- 4X - 1.5)
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=3.3V Pin=P1-2
+Added Pin To Net: NetName=SWCLK Pin=P1-3
+Added Pin To Net: NetName=SWDIO Pin=P1-4
+Added Member To Class: ClassName=Logic.~(138) Member=Component J3 JST-1.5-2
+Added Member To Class: ClassName=Logic.~(138) Member=Component MTH3 MTH_M3
+Added Member To Class: ClassName=Logic.~(138) Member=Component P1 JST-1.5-4x
+Added Member To Class: ClassName=Logic.~(138) Member=Component Y1 48MHz 7pF ±10ppm 

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ENC_CS Pin=U1-16
+Removed Pin From Net: NetName=TMC_CS Pin=U1-29
+Added Pin To Net: NetName=TMC_CS Pin=U1-16
+Added Pin To Net: NetName=ENC_CS Pin=U1-29

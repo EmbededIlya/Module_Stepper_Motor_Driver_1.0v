@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetQ2_5 Pin=R24-2
+Removed Pin From Net: NetName=GND Pin=R25-2
+Removed Pin From Net: NetName=NetQ1_5 Pin=R26-2
+Removed Pin From Net: NetName=GND Pin=R27-2
+Added Component: Designator=NT1(Net_Tie)
+Added Component: Designator=NT2(Net_Tie)
+Added Component: Designator=NT3(Net_Tie)
+Added Component: Designator=NT4(Net_Tie)
+Added Pin To Net: NetName=NetQ2_5 Pin=NT1-1
+Added Pin To Net: NetName=SRBH_P Pin=NT1-1
+Added Pin To Net: NetName=GND Pin=NT2-1
+Added Pin To Net: NetName=SRBH_N Pin=NT2-1
+Added Pin To Net: NetName=NetQ1_5 Pin=NT3-1
+Added Pin To Net: NetName=SRAH_P Pin=NT3-1
+Added Pin To Net: NetName=GND Pin=NT4-1
+Added Pin To Net: NetName=SRAH_N Pin=NT4-1
+Added Pin To Net: NetName=SRBH_P Pin=R24-2
+Added Pin To Net: NetName=SRBH_N Pin=R25-2
+Added Pin To Net: NetName=SRAH_P Pin=R26-2
+Added Pin To Net: NetName=SRAH_N Pin=R27-2
+Change Net Name : Old Net Name=NetQ1_5 New Net Name=NetNT3_1
+Change Net Name : Old Net Name=NetQ2_5 New Net Name=NetNT1_1
+Added Member To Class: ClassName=Driver Member=Component NT1 Net_Tie
+Added Member To Class: ClassName=Driver Member=Component NT2 Net_Tie
+Added Member To Class: ClassName=Driver Member=Component NT3 Net_Tie
+Added Member To Class: ClassName=Driver Member=Component NT4 Net_Tie

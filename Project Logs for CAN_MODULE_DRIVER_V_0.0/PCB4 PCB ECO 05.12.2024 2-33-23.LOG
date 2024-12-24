@@ -1,0 +1,49 @@
+Change Component Footprint: Designator=L1 Old Footprint=SRN5040 New Footprint=SMD 5.4x5.2mm
+Change Component Footprint: Designator=L2 Old Footprint=SRN5040 New Footprint=SMD 5.4x5.2mm
+Change Component Comment : Designator=L1 Old Comment=22uH 1.5 A ±20% New Comment=22uH 1.8 A ±20%
+Change Component Comment : Designator=L2 Old Comment=22uH 1.5 A ±20% New Comment=22uH 1.8 A ±20%
+Change component parameters: Designator = "C10" ("C10"); Footprint = "0402"; UniqueID = "\DBSIYKDP" ("\DBSIYKDP")
+Change component parameters (AddParameter): Name = "BOMString"; Value = " 1 µF 16V ±10% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = " 1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "CC0402KRX5R7BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "0402"; UniqueID = "\HFSFIPEZ" ("\HFSFIPEZ")
+Change component parameters (AddParameter): Name = "BOMString"; Value = " 1 µF 16V ±10% 0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = " 1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "CC0402KRX5R7BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "SRN5040"; UniqueID = "\WRIYSMSO" ("\WRIYSMSO")
+Change component parameters (AddParameter): Name = "BOMString"; Value = "22uH ±20% SMD 5.4x5.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "1.8 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "22uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Sunltech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "SLO0530H220MTT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "265m?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2" ("L2"); Footprint = "SRN5040"; UniqueID = "\NVGWATEO" ("\NVGWATEO")
+Change component parameters (AddParameter): Name = "BOMString"; Value = "22uH ±20% SMD 5.4x5.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "1.8 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HQ Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "22uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Sunltech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "SLO0530H220MTT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "265m?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Logic.~(138) Member=Component J1 USBC-U262-16XN-4BSS73-T

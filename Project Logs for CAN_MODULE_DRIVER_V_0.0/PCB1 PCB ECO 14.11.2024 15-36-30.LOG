@@ -1,0 +1,12 @@
+Change Component Kind : Designator=NT4 Old Kind=Standard New Kind=Net Tie
+Change Component Kind : Designator=NT3 Old Kind=Standard New Kind=Net Tie
+Change Component Kind : Designator=NT2 Old Kind=Standard New Kind=Net Tie
+Change Component Kind : Designator=NT1 Old Kind=Standard New Kind=Net Tie
+Added Pin To Net: NetName=SRBH_P Pin=NT1-1
+Added Pin To Net: NetName=SRBH_N Pin=NT2-1
+Added Pin To Net: NetName=SRAH_P Pin=NT3-1
+Added Pin To Net: NetName=SRAH_N Pin=NT4-1
+Added Member To Class: ClassName=Logic.~(138) Member=Component MTH1 MTH_M3
+Added Member To Class: ClassName=Logic.~(138) Member=Component MTH2 MTH_M3
+Added Member To Class: ClassName=Logic.~(138) Member=Component MTH3 MTH_M3
+Added Member To Class: ClassName=Logic.~(138) Member=Component MTH4 MTH_M3

@@ -1,0 +1,9 @@
+Added Component: Designator=D7(SOD-123FL)
+Add component (AddParameter): Name = "Device"; Value = "diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "SM5819PL-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price(100)"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "40 V, 1 A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=D7-1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Member To Class: ClassName=Logic Member=Component D7 40 V, 1 A
